@@ -42,4 +42,4 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, TensorFlow/Keras
 
 ## How to Run
 pip install -r requirements.txt  
-Run the notebook in the `notebooks/` folder.
+Run the notebook in the `notebook/` folder.
