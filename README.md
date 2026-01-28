@@ -58,12 +58,12 @@ seaborn
 shap
 xgboost
 
-Run the notebook.ipynb in the notebook folder.
+Run the cells in [Notebook](notebook/notebook.ipynb)
 
 ## 📄 Report
 A detailed project report summarizing the business problem, data preparation, modeling approach, and key insights is available below:
 
-- [Report](reports/report.pdf)
+- [Report](report/report.pdf)
 
 ## Conclusion
 
