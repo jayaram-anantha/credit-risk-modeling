@@ -39,7 +39,7 @@ The original dataset is large and confidential.
 
 A representative sample dataset is provided for demonstration and reproducibility.
 
-- [Data](credit-risk-modeling/data)
+- [Data](data/sample_credit_data.csv)
 
 ## Screenshots
 ![ROC Curve](assets/roc_curve.png)
