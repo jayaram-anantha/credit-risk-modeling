@@ -39,7 +39,7 @@ The original dataset is large and confidential.
 
 A representative sample dataset is provided for demonstration and reproducibility.
 
-location: data/sample_credit_data.csv
+- [Data](data/sample_credit_data.csv)
 
 ## Screenshots
 ![ROC Curve](assets/roc_curve.png)
@@ -63,7 +63,7 @@ Run the cells in [Notebook](notebook/notebook.ipynb)
 ## 📄 Report
 A detailed project report summarizing the business problem, data preparation, modeling approach, and key insights is available below:
 
-- [Report](report/report.pdf)
+- [Report](report/report.pptx)
 
 ## Conclusion
 
