@@ -34,6 +34,13 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, TensorFlow/Keras
 - SHAP analysis provided transparent interpretation of predictions
 - Model-driven strategy reduced default rate to 5–10%
 
+## Dataset
+The original dataset is large and confidential.
+
+A representative sample dataset is provided for demonstration and reproducibility.
+
+location: data/sample_credit_data.csv
+
 ## Screenshots
 ![ROC Curve](assets/roc_curve.png)
 ![SHAP Summary](assets/shap_beeswarm.png)
@@ -42,4 +49,10 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, SHAP, TensorFlow/Keras
 
 ## How to Run
 pip install -r requirements.txt  
-Run the notebook in the `notebook/` folder.
+Run the notebook.ipynb in the notebook folder.
+
+## 📄 Report
+
+A detailed project report summarizing the business problem, data preparation, modeling approach, and key insights is available below:
+
+- [Report](reports/report.pdf)
