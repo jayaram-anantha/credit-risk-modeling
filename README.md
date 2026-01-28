@@ -48,11 +48,23 @@ location: data/sample_credit_data.csv
 ![Model Comparison](assets/model_comparison.png)
 
 ## How to Run
-pip install -r requirements.txt  
+Open the notebook using Jupyter Notebook or JupyterLab.
+Ensure Python 3 is installed with the following libraries:
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+xgboost
+
 Run the notebook.ipynb in the notebook folder.
 
 ## 📄 Report
-
 A detailed project report summarizing the business problem, data preparation, modeling approach, and key insights is available below:
 
 - [Report](reports/report.pdf)
+
+## Conclusion
+
+This project demonstrates the application of machine learning techniques for credit risk analysis with a strong focus on explainability and business relevance. The approach balances predictive performance with interpretability, making it suitable for real-world financial decision-making.
